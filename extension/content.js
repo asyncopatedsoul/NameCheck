@@ -1,4 +1,4 @@
-InboxSDK.load('1', 'Hello World!').then(function(sdk){
+InboxSDK.load('1', 'sdk_NameCheck_3598f01e7b').then(function(sdk){
 
 	// the SDK has been loaded, now do something with it!
 	sdk.Compose.registerComposeViewHandler(function(composeView){
@@ -15,3 +15,6 @@ InboxSDK.load('1', 'Hello World!').then(function(sdk){
 	});
 
 });
+
+
+
